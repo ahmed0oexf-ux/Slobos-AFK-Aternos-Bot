@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "loaded",
+    "username": "server",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "loaded.aternos.me",
-    "port": 29285,
+    "ip": "123456789a-HL3W.aternos.me",
+    "port": 24312,
     "version": "",
     "try-creative": false
   },
